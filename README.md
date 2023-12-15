@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on making "Unstable Life" comfortable.
 
-The development of free software is important, and the delivery ecosystem
-of free software becomes important, too.
+The development of free software is important, and I believe that the delivery ecosystem
+of free software is also important.
 
 This is why I'm working as a member of Debian Project.
 
