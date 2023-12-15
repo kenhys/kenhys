@@ -24,6 +24,9 @@ of free software is also important.
 
 This is why I'm working as a member of Debian Project.
 
+<!-- Open Source Summit JAPAN 2023 speaker badge -->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="495286dc-e96b-4a4c-b8c0-9036ef3fc735" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kenhys&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
