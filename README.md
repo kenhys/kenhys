@@ -5,7 +5,7 @@ I'm a Free software developer and loves Debian (newbie Debian Developer).
 I'm working as a software engineer at [ClearCode Inc](https://www.clear-code.com).
 We drive forward free softwares and make the business.
 
-For example, especially developing [Fluentd](https://www.fluentd.org/) as a community member and support it for [enterprise use case](https://www.fluentd.org/enterprise_services)) and so on.
+For example, especially developing [Fluentd](https://www.fluentd.org/) as a community member and support it for [enterprise use case](https://www.fluentd.org/enterprise_services) and so on.
 
  <!--
 **kenhys/kenhys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
