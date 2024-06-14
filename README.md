@@ -2,7 +2,7 @@
 
 I'm a Free software developer and loves Debian.
 
-I'm working as a software engineer at ClearCode Inc.
+I'm working as a software engineer at [ClearCode Inc](https://www.clear-code.com).
 We drive forward free softwares and make the business.
 
 <!--
