@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently engaging in about making "Unstable Life" comfortable.
+🔭 As a one free software developer, I’m currently engaging in about making "Unstable Life" comfortable.
 
 The development of free software is important, and I believe that the delivery ecosystem
 of free software is also important.
