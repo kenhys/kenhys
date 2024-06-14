@@ -36,7 +36,7 @@ If you have interest to become a GitHub sponsor of mine, see [Become a sponsor t
 <!-- Open Source Summit JAPAN 2023 speaker badge -->
 * [Speaker: Open Source Summit Japan 2023](https://www.credly.com/badges/495286dc-e96b-4a4c-b8c0-9036ef3fc735/public_url)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kenhys&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kenhys&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kenhys&count_private=true&show_icons=true&theme=tokyonight" />
