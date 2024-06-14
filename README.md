@@ -7,7 +7,9 @@ We drive forward free softwares and make the business.
 
 For example, especially developing [Fluentd](https://www.fluentd.org/) as a community member and support it for [enterprise use case](https://www.fluentd.org/enterprise_services) and so on.
 
- <!--
+![](images/fluentd-enterprise-support.png)
+
+<!--
 **kenhys/kenhys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
